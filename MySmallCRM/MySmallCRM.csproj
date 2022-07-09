@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\AnotherLib.BootCamp\AnotherLib.BootCamp.csproj" />
-  </ItemGroup>
-
 </Project>
