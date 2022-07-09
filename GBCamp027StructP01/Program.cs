@@ -1,2 +1,6 @@
 ﻿//GB - Буткемп 027 Структуры данных C#
-Console.WriteLine("Hello, World!");
+
+int i = 10;
+
+
+List <int> list = new List<int> ();
