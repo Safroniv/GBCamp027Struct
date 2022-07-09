@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBCamp027StructP01", "GBCamp027StructP01\GBCamp027StructP01.csproj", "{3AD89AAD-F5F0-494E-B3D4-9621F1B51450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD89AAD-F5F0-494E-B3D4-9621F1B51450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD89AAD-F5F0-494E-B3D4-9621F1B51450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD89AAD-F5F0-494E-B3D4-9621F1B51450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD89AAD-F5F0-494E-B3D4-9621F1B51450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F2537A7-DB40-44A0-BEF4-8770D13C1344}
+	EndGlobalSection
+EndGlobal
