@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//GB - Буткемп 027 Структуры данных C#
 Console.WriteLine("Hello, World!");
