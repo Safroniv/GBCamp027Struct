@@ -1,0 +1,1 @@
+# GBCamp027Struct
